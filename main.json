@@ -109,7 +109,7 @@
                       {
                        "name":"exitUrl",
                        "type":"string",
-                       "value":"world:\/\/lobby\/rest-of-2020.json#start_intersect"
+                       "value":"world:\/\/lobby"
                       }],
                "type":"tilelayer",
                "visible":true,
