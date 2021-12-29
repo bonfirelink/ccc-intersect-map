@@ -235,14 +235,9 @@
                        "name":"",
                        "properties":[
                               {
-                               "name":"allowApi",
-                               "type":"bool",
-                               "value":false
-                              }, 
-                              {
                                "name":"url",
                                "type":"string",
-                               "value":"video.html"
+                               "value":"https:\/\/maija.uber.space\/intersect\/"
                               }],
                        "rotation":0,
                        "type":"website",
